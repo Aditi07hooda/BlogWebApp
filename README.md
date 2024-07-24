@@ -19,13 +19,13 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Blog-App-using-MERN-stack.git
+git clone [https://github.com/Aditi07hooda/BlogWebApp.git](https://github.com/Aditi07hooda/BlogWebApp.git)
 ```
 
 2. Install the required dependencies for both the backend and frontend:
 
 ```bash
-cd Blog-App-using-MERN-stack
+cd BlogWebApp
 cd client && npm install
 ```
 3. Start the frontend application:
