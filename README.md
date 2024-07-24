@@ -4,11 +4,11 @@ Welcome to the Blog Web App! This application is built using the MERN (MongoDB, 
 
 ## Screenshots
 
-![Screenshot 1](./../client/public/blogApp1.png)
+![Screenshot 1](client/public/blogApp1.png)
 
-![Screenshot 2](./../client/public/blogApp2.png)
+![Screenshot 2](client/public/blogApp2.png)
 
-![Screenshot 3](./../client/public/blogApp3.png)
+![Screenshot 3](client/public/blogApp3.png)
 
 ## Getting Started
 
